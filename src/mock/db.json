@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "content": "Content of post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "content": "Content of post 2"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "User 1",
+      "username": "user1@example.com",
+      "password": "123"
+    }
+  ]
+}
